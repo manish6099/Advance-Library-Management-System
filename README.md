@@ -9,10 +9,10 @@ This repository contains library management system, made while learning Tkinter 
 
 Some Important Python Modules Used
 
-1. Pillow        : Pillow is built on top of PIL (Python Image Library). PIL is one of the important modules for image processing in Python.
-2. Tkinter       : Tkinter is the Python interface to the Tk GUI toolkit shipped with Python.
-3. isbntools     : isbntools provides several useful methods and functions to validate, clean, transform, hyphenate and get metadata for ISBN strings.
-4. opencv-python : OpenCV is a huge open-source library for computer vision, machine learning, and image processing.
-5. psycopg2      : Psycopg is the most popular PostgreSQL database adapter for the Python programming language.
-6. pyzbar        : Read one-dimensional barcodes and QR codes from Python 2 and 3 using the zbar library.
-7. tkcalendar    : tkcalendar is a python module that provides the Calendar and DateEntry widgets for Tkinter.  
+1. **Pillow**        : Pillow is built on top of PIL (Python Image Library). PIL is one of the important modules for image processing in Python.
+2. **Tkinter**       : Tkinter is the Python interface to the Tk GUI toolkit shipped with Python.
+3. **isbntools**     : isbntools provides several useful methods and functions to validate, clean, transform, hyphenate and get metadata for ISBN strings.
+4. **opencv-python** : OpenCV is a huge open-source library for computer vision, machine learning, and image processing.
+5. **psycopg2**      : Psycopg is the most popular PostgreSQL database adapter for the Python programming language.
+6. **pyzbar**        : Read one-dimensional barcodes and QR codes from Python 2 and 3 using the zbar library.
+7. **tkcalendar**    : tkcalendar is a python module that provides the Calendar and DateEntry widgets for Tkinter.  
