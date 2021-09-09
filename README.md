@@ -1,5 +1,5 @@
 # Advance-Library-Management-System (python)
-This repository contains library management system, made while learning Tkinter module (python's GUI toolkit) and the psycopg2 library(built-in database/PostgreSQL interface).
+This repository contains library management system, made while learning Tkinter module (python's GUI toolkit) and the psycopg2 library(PostgreSQL interface).
 
 
 1. To **RUN** the program just execute **'main.py'** {but rest of the files should also be present in the same directory}.
